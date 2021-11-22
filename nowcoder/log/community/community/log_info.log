@@ -1,0 +1,15 @@
+2021-11-22 16:40:36,996 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:55] Starting CommunityApplication using Java 11.0.4 on 沉迷代码日渐消瘦 with PID 5316 (E:\nowcoder\woekspace\community\target\classes started by 22170 in E:\nowcoder\woekspace\community)
+2021-11-22 16:40:36,999 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:635] No active profile set, falling back to default profiles: default
+2021-11-22 16:40:37,064 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-22 16:40:37,065 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-22 16:40:38,587 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-11-22 16:40:38,599 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-22 16:40:38,600 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-11-22 16:40:38,601 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-11-22 16:40:38,719 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-11-22 16:40:38,719 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:290] Root WebApplicationContext: initialization completed in 1653 ms
+2021-11-22 16:40:39,251 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-11-22 16:40:39,453 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-11-22 16:40:39,480 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-11-22 16:40:39,502 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-11-22 16:40:39,518 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:61] Started CommunityApplication in 3.333 seconds (JVM running for 5.092)
