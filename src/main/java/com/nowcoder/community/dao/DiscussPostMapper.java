@@ -20,5 +20,4 @@ public interface DiscussPostMapper {
 
     int selectDiscussPostRows(@Param("userId") int userId);
 
-
 }

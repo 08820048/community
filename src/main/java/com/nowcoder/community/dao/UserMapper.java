@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 /**
  * @author: XuYi
  * @date: 2021/11/21 16:27
- * @description:
+ * @description: Tisox.waer.ltd
  */
 @Mapper
 @Repository

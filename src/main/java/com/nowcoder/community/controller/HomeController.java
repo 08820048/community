@@ -25,6 +25,12 @@ public class HomeController {
     @Autowired
     private UserService userService;
 
+    /**
+     * 或取帖子数据
+     * @param model model
+     * @param page 分页信息
+     * @return String
+     */
     @RequestMapping(path = "/index",method = RequestMethod.GET)
     public String getIndexPage(Model model, Page page){
         //方法调用之前，MVC会自动实例化MODEL和PAGE,并将page注入MODEL
