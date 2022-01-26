@@ -42,4 +42,5 @@ public class MailClient {
         }
         logger.info("邮件发送成功");
     }
+
 }
