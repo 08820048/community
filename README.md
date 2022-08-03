@@ -22,10 +22,9 @@
 
 ## 项目说明：
 更新中...
-
 ## 项目部署
 更新中..
 ## 项目总结
 更新中...
 ## 开发笔记
-https://www.waer.ltd/types/8
+https://www.waer.ltd
