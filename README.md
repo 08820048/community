@@ -26,6 +26,5 @@
 更新中..
 ## 项目总结
 更新中...
-## 开发笔记
-https://www.waer.ltd
-访问密码：6666
+## 开发笔记/文档
+https://docs.waer.ltd
